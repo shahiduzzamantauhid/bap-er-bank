@@ -1,0 +1,14 @@
+{
+  "name": "bap-er-bank",
+  "version": "1.0.0",
+  "description": "this is a sample bank management functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
